@@ -10,7 +10,7 @@ solution must be hosted onapublicGitHubrepository.
 
 # *****Attention Please*****
 
-Working version of the project can be found on test branch
+Working version of the project can be found on main branch
 
 
 # Tech used: React, Tailwind CSS. HTML, Node.JS, CSS (Mainly Frontend)
