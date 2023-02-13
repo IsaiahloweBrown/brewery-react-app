@@ -16,16 +16,18 @@ const Root = styled.div`
 `;
 
 const Card = styled.div`
-  border: 5px solid white;
   cursor: pointer;
   width: 700px;
   height: 500px;
   display: flex;
   justify-content: space-evenly;
   flex-direction: column;
-  background: rgb(255, 8, 171);
-  color: white; 
   padding: 10px;
+  background: black;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 500;
+  border-radius: 10px;
   gap: 10px;
 `;
 

@@ -2,7 +2,7 @@ import React, { useMemo, useEffect, useState } from "react";
 import { GoogleMap, useJsApiLoader, Marker } from "@react-google-maps/api";
 
 const containerStyle = {
-  width: "700px",
+  width: "670px",
   height: "500px",
 };
 

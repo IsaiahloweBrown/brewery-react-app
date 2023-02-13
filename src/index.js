@@ -2,6 +2,7 @@ import { createRoot } from "react-dom/client";
 import { BreweryCards } from "./components/BreweryCards";
 import reportWebVitals from "./reportWebVitals";
 import styled from "styled-components";
+import "./index.css"
 
 const Container = styled.div`
   height: 900px;
